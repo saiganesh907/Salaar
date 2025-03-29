@@ -1,0 +1,11 @@
+setuptools>=65.5.1
+wheel>=0.38.4
+numpy>=1.26.0
+flask==2.0.1
+flask-socketio==5.1.1
+python-socketio==5.4.0
+python-engineio==4.2.1
+pandas==1.2.4
+scikit-learn==0.24.2
+joblib==1.0.2
+werkzeug==2.0.3 
